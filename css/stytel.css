@@ -1,0 +1,104 @@
+/* Fullscreen hero scoped styles */
+._a69i._aoby[data-scoped-css="fullscreen-hero-scoped-u_0_9_Yy"] {
+    padding-right: 55%;
+}
+
+@media(max-width: 767px) {
+    ._a69i._aoby[data-scoped-css="fullscreen-hero-scoped-u_0_9_Yy"] {
+        padding-right: 5%;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 1023px) {
+    ._a69i._aoby[data-scoped-css="fullscreen-hero-scoped-u_0_9_Yy"] {
+        padding-right: 20%;
+    }
+}
+/* Tạo kiểu cho phần văn bản "Search Meta Careers" */
+.search-meta-careers-text {
+    color: #1C2B33;
+}
+/* Kiểu cho phần văn bản "Find open jobs" */
+.find-open-jobs-text {
+    font-size: 16px;
+    font-weight: bold;
+    color: #1C2B33; /* Đổi màu nếu cần */
+}
+
+/* Kiểu cho input search */
+.search-input {
+    padding: 8px;
+    font-size: 14px;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+}
+
+/* Kiểu cho kết quả tìm kiếm */
+.search-results-container {
+    margin-top: 10px;
+}
+
+.search-results-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.search-results-item svg {
+    margin-right: 8px;
+}
+
+/* Kiểu cho văn bản kết quả tìm kiếm */
+.search-results-text {
+    color: #38444F;
+    font-size: 14px;
+}
+/* Kiểu cho văn bản "Located in" */
+.located-in-text {
+    font-size: 16px;
+    font-weight: bold;
+    color: #1C2B33;
+}
+
+/* Kiểu cho input search location */
+.search-location-input {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+/* Kiểu cho phần kết quả tìm kiếm */
+.location-checkbox-container {
+    margin-top: 10px;
+}
+
+.location-checkbox-item {
+    display: flex;
+    align-items: center;
+    padding: 8px 0;
+}
+
+.location-checkbox-item input {
+    margin-right: 10px;
+}
+
+.location-checkbox-label {
+    font-size: 14px;
+    color: #38444F;
+}
+.location-checkbox-item button {
+    margin-right: 10px;
+}
+.location-checkbox-icon {
+    width: 16px;
+    height: 16px;
+}
+._a92o _a5d1 _a5wf _a5ct{
+    color:#1C2B33;
+}
+._ar7d _93ft search-results-text{
+      color: #38444F
+}
